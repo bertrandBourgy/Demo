@@ -1,2 +1,3 @@
 Hello World ! 
 On voit ce texte uniquement sur la nouvelle branche ! 
+Et ce texte uniquement sur branch2.
